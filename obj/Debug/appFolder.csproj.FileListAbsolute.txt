@@ -1,0 +1,11 @@
+C:\Users\frasc\source\repos\appFolder\bin\Debug\appFolder.exe.config
+C:\Users\frasc\source\repos\appFolder\bin\Debug\appFolder.exe
+C:\Users\frasc\source\repos\appFolder\bin\Debug\appFolder.pdb
+C:\Users\frasc\source\repos\appFolder\obj\Debug\appFolder.csprojAssemblyReference.cache
+C:\Users\frasc\source\repos\appFolder\obj\Debug\appFolder.Form1.resources
+C:\Users\frasc\source\repos\appFolder\obj\Debug\appFolder.Properties.Resources.resources
+C:\Users\frasc\source\repos\appFolder\obj\Debug\appFolder.csproj.GenerateResource.cache
+C:\Users\frasc\source\repos\appFolder\obj\Debug\appFolder.csproj.CoreCompileInputs.cache
+C:\Users\frasc\source\repos\appFolder\obj\Debug\appFolder.exe
+C:\Users\frasc\source\repos\appFolder\obj\Debug\appFolder.pdb
+C:\Users\frasc\source\repos\appFolder\obj\Debug\appFolder.inputForm.resources
