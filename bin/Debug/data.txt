@@ -1,20 +1,5 @@
 {
-title: Firefox,
-url: C:\Program Files\Mozilla Firefox\firefox.exe,
-}
-{
-title: Atom,
-url: C:\Users\frasc\AppData\Local\atom\atom.exe,
-}
-{
-title: Dicord,
-url: C:\Users\frasc\AppData\Local\Discord\Update.exe,
-}
-{
 title: WinRAR,
 url: C:\Program Files\WinRAR\WinRAR.exe,
-}
-{
-title: PacketTracer7,
-url: C:\Program Files\Cisco Packet Tracer 7.2\bin\PacketTracer7.exe,
+image: C:\Program Files\Cisco Packet Tracer 7.2\art\app.ico,
 }

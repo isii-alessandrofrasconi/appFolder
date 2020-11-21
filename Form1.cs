@@ -51,7 +51,14 @@ namespace appFolder
                     b.Text = t[0].Trim();
                     b.AutoSize = true;
                     b.Name = t[1].Trim();
-                    b.Image = t[2].Trim();
+                    if (t[2].Trim() != "")
+                    {
+                        b.BackgroundImage = System.Drawing.Image.FromFile(t[2].Trim());
+                        b.Size = new System.Drawing.Size(70, 70);
+                        b.FlatStyle = FlatStyle.Flat;
+                        b.BackgroundImageLayout = ImageLayout.Stretch;
+                        b.Text = "";
+                    }
                     b.Click += app_Click;
 
                     if (t[0].Trim() != "")

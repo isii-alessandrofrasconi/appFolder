@@ -94,6 +94,7 @@ namespace appFolder
             // 
             // btnAddPath
             // 
+            this.btnAddPath.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnAddPath.Location = new System.Drawing.Point(73, 106);
             this.btnAddPath.Name = "btnAddPath";
             this.btnAddPath.Size = new System.Drawing.Size(350, 30);
